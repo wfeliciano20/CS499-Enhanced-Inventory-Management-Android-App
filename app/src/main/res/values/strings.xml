@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CS360ProjectTwo</string>
+    <string name="add_new_inventory_item">Add New Inventory Item</string>
+    <string name="edit_item">Edit item</string>
+    <string name="delete_item">delete item</string>
+    <string name="logout">logout</string>
+    <string name="name">Name</string>
+    <string name="number">Number</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="signin">Signin</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="list_item">List item</string>
+    <string name="_1">1</string>
+    <string name="simple_inventory_app">Simple Inventory App</string>
+    <string name="sign_in">Sign In</string>
+    <string name="user_s_inventory">User\'s Inventory</string>
+    <string name="edit_inventory_item">Edit Inventory Item</string>
+    <string name="item_name">Item Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="_0">0</string>
+    <string name="add_item">Add Item</string>
+</resources>

@@ -2,7 +2,14 @@
 
 A modern inventory management Android application built with Java. 
 This app streamlines inventory tracking, user management, and notifications,
-leveraging both local and cloud technologies.
+leveraging local and cloud technologies. This is the third enhancement 
+for my capstone project at SNHU.
+
+# External Links to Previous Enhancements
+
+- Web API Repository: https://github.com/wfeliciano20/InventoryMangementWebApi
+- Web Client Repository: https://github.com/wfeliciano20/InventoryManagementReactWebClient
+- Capstone Portfolio: https://wfeliciano20.github.io/CS499_Capstone/
 
 ## Features
 
